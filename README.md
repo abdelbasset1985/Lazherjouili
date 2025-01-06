@@ -22,24 +22,7 @@
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Lazherjouili&show_icons=true&theme=radical)
 
 ![Langues utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazherjouili&layout=compact&theme=radical)
-### 📊 GitHub Stats
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Lazherjouili&show_icons=true&theme=radical&hide=issues,contribs)
-
-![Langues utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazherjouili&layout=compact&theme=radical&langs_count=6)
-
-![Nombre de vues](https://komarev.com/ghpvc/?username=Lazherjouili&style=flat-square&color=blue)  
-![Followers](https://img.shields.io/github/followers/Lazherjouili?style=social)
-
----
-
-### 📂 Featured Projects
-
-- **[Project Name 1](https://github.com/Lazherjouili/project1)**  
-  📌 *Brief description of the project (e.g., A Spring Boot/Angular app for task management).*
-
-- **[Project Name 2](https://github.com/Lazherjouili/project2)**  
-  📌 *Brief description of the project (e.g., An Angular dashboard with PrimeNG components).*
 
 ---
 
