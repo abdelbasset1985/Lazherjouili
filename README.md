@@ -5,7 +5,7 @@
 - 🌱 Currently exploring **PrimeNG** for creating advanced user interfaces.
 - 🌍 Transitioned from civil engineering to software development with a passion for building modern and efficient web applications.
 - 🤝 Looking to collaborate on open-source projects and innovative web applications.
-- 📫 How to reach me: [Email Me](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📫 How to reach me: [Email Me](lazher.jouili.job@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lazher-jouili/)
 
 ---
 
