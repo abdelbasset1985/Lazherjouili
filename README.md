@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 💻 **Developer** specializing in **Spring Boot** and **Angular**.  
-🌱 Currently exploring **PrimeNG** for advanced UI design.  
+🌱 Currently ex* for advanced UI design.  
 🌍 Transitioned from civil engineering to software development with a passion for creating efficient web applications.  
 🤝 Always looking to collaborate on open-source projects and innovative web applications.  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lazher-jouili/).
@@ -56,8 +56,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazherjouili&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazherjouili&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lazherjouili&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazherjouili&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazherjouili&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
