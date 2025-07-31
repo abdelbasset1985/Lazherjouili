@@ -56,9 +56,9 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazherjouili&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazherjouili&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazherjouili&theme=react-dark&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelbasset1985&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelbasset1985&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelbasset1985&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---
